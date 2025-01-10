@@ -89,7 +89,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📂 Projects</h2>
     <div style="font-size: 15px; color: #282d33;">
         <ul style="font-weight: 700;">
-            <li><b>SK Hynix</b> | Semiconductor Data Science Mentoring Program (2025.03 - Ongoing)</li>
+            <li><b>SK Hynix</b> | Semiconductor Data Science Mentoring Program (2025.01 - Ongoing)</li>
             <li><b>SK Hynix</b> | Defect Prediction Model for System Interrupt in Data Center SSDs (2024.11 - Ongoing)</li>
             <li><b>KISTI</b> | Development of Demand-Based Service Models for DX-ASTI (2023.03 - 2023.10)</li>
             <li><b>NRF</b> | Development of a Graph Neural Network for Heterogeneous Domain Integration in Topic Tomography (2022.06 - 2023.12)</li>
